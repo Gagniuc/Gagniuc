@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gagniuc
 - 👀 I’m interested in algorithms
 - 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on weird stuff
+- 💞️ I’m looking to collaborate on fringe, atypical projects that require new algorithms
 - 📫 How to reach me: paul_gagniuc@acad.ro; paul.gagniuc@upb.ro
 
 <!---
