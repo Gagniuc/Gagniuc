@@ -2,7 +2,7 @@
 - 👀 I’m interested in algorithms
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on fringe, atypical projects that require new algorithms
-- 📫 How to reach me: paul_gagniuc@acad.ro; paul.gagniuc@upb.ro
+- 📫 How to reach me: paul_gagniuc(Q)acad.ro; paul.gagniuc(Q)upb.ro
 
 <!---
 Gagniuc/Gagniuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
