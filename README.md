@@ -7,6 +7,7 @@
 <p>HTML images are defined with the img tag:</p>
   
 <kbd><a href="https://github.com/Gagniuc/Predictions-with-Markov-Chains"><img src="https://github.com/Gagniuc/Predictions-with-Markov-Chains/blob/main/ScreenShot%20-%20Predictions%20with%20Markov%20Chains%20on%20an%20unlimited%20number%20of%20states.png" width="180" alt="Predictions with Markov Chains"></a></kbd>
+
 <a href="https://github.com/Gagniuc/Objective-Digital-Stains"><kbd><img src="https://github.com/Gagniuc/Objective-Digital-Stains/blob/main/%5BG%5D%20Objective%20Digital%20Stains.png" width="180" alt="Objective Digital Stains"></kbd></a>
 
     <a href="https://github.com/Gagniuc/Markov-Chains-scanner"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-scanner/raw/main/%5BG%5D%20Markov%20scanner.png" width="180" alt="Markov Chains scanner"></kbd></a>
