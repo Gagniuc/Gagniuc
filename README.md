@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img style="border: 5px solid #555;" src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="250" alt="Jupiter Bioinformatics (V1)"></kbd></a>
+<a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img style="border:5px solid black" src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="250" alt="Jupiter Bioinformatics (V1)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---normal-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V2%20-%20normal).png" width="250" alt="Jupiter Bioinformatics V2 (normal)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-dark"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---dark-/raw/main/ScreenShot%20-%20Jupiter%20Bioinformatics%20(V2%20-%20dark).png" width="250" alt="Jupiter Bioinformatics V2 (dark)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-experiments"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-experiments/raw/main/Bio-Jupiter.PNG" width="250" alt="Jupiter Bioinformatics V2 experiments"></kbd></a>
