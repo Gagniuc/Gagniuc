@@ -3,8 +3,8 @@
 <html>
 <body>
 
-<h2>HTML Images</h2>
-<p>HTML images are defined with the img tag:</p>
+<h2>JavaScript implementations</h2>
+<p>Some demo applications:</p>
 
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="180" alt="Jupiter Bioinformatics (V1)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---normal-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V2%20-%20normal).png" width="180" alt="Jupiter Bioinformatics V2 (normal)"></kbd></a>
@@ -28,6 +28,9 @@
 <a href="https://github.com/Gagniuc/Spectral-Forecast-equation-for-signals"><kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-equation-for-signals/raw/main/%5BG%5D%20Spectral%20Forecast%20equation%20for%20signals.png" width="180" alt="Spectral Forecast equation for signals"></kbd></a>
 <a href="https://github.com/Gagniuc/Spectral-Forecast-equation-for-matrices"><kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-equation-for-matrices/raw/main/%5BG%5D%20Spectral%20Forecast%20equation%20for%20matrices.png" width="180" alt="Spectral Forecast equation for matrices"></kbd></a>
 
+<h2>Visual Basic 6.0 implementations</h2>
+<p>Some demo applications:</p>
+  
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
