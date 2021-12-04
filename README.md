@@ -17,8 +17,8 @@
 <a href="https://github.com/Gagniuc/Information-Content-vs-Information-Entropy"><kbd><img src="https://github.com/Gagniuc/Information-content-red-vs-Information-entropy-black-/raw/main/%5BG%5D%20Information%20content%20vs%20Information%20entropy.png" width="180" alt="Information content vs Information entropy"></kbd></a>
 <a href="https://github.com/Gagniuc/Sequence-Logo-relative-style"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---relative-style/raw/main/%5BG%5D%20Sequence%20Logo%20-%20relative%20style.png" width="180" alt="Sequence Logo (relative style)"></kbd></a>
 <a href="https://github.com/Gagniuc/Sequence-Logo-relative-style-with-axes"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---relative-style-with-axes/raw/main/%5BG%5D%20Sequence%20Logo%20-%20relative%20style%20with%20axes.png" width="180" alt="Sequence Logo (relative style with axes)"></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
+<a href="https://github.com/Gagniuc/Sequence-Logo-block-style"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---block-style/raw/main/%5BG%5D%20Sequence%20Logo%20-%20block%20style.png" width="180" alt="Sequence Logo (block style)"></kbd></a>
+<a href="https://github.com/Gagniuc/Sequence-Logo-block-style-with-axes"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---block-style-with-axes/raw/main/%5BG%5D%20Sequence%20Logo%20-%20block%20style%20with%20axes.png" width="180" alt="Sequence Logo (block style with axes)"></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
