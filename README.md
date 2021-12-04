@@ -3,9 +3,6 @@
 <html>
 <body>
 
-<h2>JavaScript implementations</h2>
-<p>Some demo applications:</p>
-
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="180" alt="Jupiter Bioinformatics (V1)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---normal-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V2%20-%20normal).png" width="180" alt="Jupiter Bioinformatics V2 (normal)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-dark"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---dark-/raw/main/ScreenShot%20-%20Jupiter%20Bioinformatics%20(V2%20-%20dark).png" width="180" alt="Jupiter Bioinformatics V2 (dark)"></kbd></a>
@@ -29,10 +26,6 @@
 <a href="https://github.com/Gagniuc/Spectral-Forecast-equation-for-matrices"><kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-equation-for-matrices/raw/main/%5BG%5D%20Spectral%20Forecast%20equation%20for%20matrices.png" width="180" alt="Spectral Forecast equation for matrices"></kbd></a>
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/Native-Charts/raw/main/%5BChart%2011%5D%20(circular%20animated%20-%20even%20more%20fantastic).gif" width="180" alt="native - Java Script Charts"></kbd></a>
 <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/raw/main/bioinformatics.PNG" width="180" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
-  
-<h2>Visual Basic 6.0 implementations</h2>
-<p>Some demo applications:</p>
-  
 <a href="https://github.com/Gagniuc/PI-laboratory-in-VB6"><kbd><img src="https://github.com/Gagniuc/PI-laboratory-in-VB6/raw/main/screenshot/PI%20engine%20(3).gif" width="180" alt="PI laboratory in VB6"></kbd></a>
 <a href="https://github.com/Gagniuc/Motif-detection-VB6"><kbd><img src="https://github.com/Gagniuc/Motif-detection-VB6/raw/main/screenshot/Demo%20-%20DNA%20motif%20detection%20in%20VB6%20(6).gif" width="180" alt="Motif detection VB6"></kbd></a>
 <a href="https://github.com/Gagniuc/Visual-Sequence-Alignment-in-VB6"><kbd><img src="https://github.com/Gagniuc/Visual-Sequence-Alignment-in-VB6/raw/main/screenshot/AlignDNA%20in%20VB6%20(5).gif" width="180" alt="Visual Sequence Alignment in VB6"></kbd></a>
