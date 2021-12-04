@@ -19,6 +19,8 @@
 <a href="https://github.com/Gagniuc/Sequence-Logo-relative-style-with-axes"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---relative-style-with-axes/raw/main/%5BG%5D%20Sequence%20Logo%20-%20relative%20style%20with%20axes.png" width="180" alt="Sequence Logo (relative style with axes)"></kbd></a>
 <a href="https://github.com/Gagniuc/Sequence-Logo-block-style"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---block-style/raw/main/%5BG%5D%20Sequence%20Logo%20-%20block%20style.png" width="180" alt="Sequence Logo (block style)"></kbd></a>
 <a href="https://github.com/Gagniuc/Sequence-Logo-block-style-with-axes"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---block-style-with-axes/raw/main/%5BG%5D%20Sequence%20Logo%20-%20block%20style%20with%20axes.png" width="180" alt="Sequence Logo (block style with axes)"></kbd></a>
+<a href="https://github.com/Gagniuc/Spectral-Forecast-model-for-signals"><kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-model-for-signals/raw/main/%5BG%5D%20Spectral%20Forecast%20model%20for%20signals.png" width="180" alt="Spectral Forecast model for signals"></kbd></a>
+<a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="180" alt="Jupiter Bioinformatics (V1)"></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
@@ -35,9 +37,12 @@
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
+  
+  
+  
+  
+  
+<a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/raw/main/bioinformatics.PNG" width="180" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
 
   
 </body>
