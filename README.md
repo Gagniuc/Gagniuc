@@ -21,10 +21,10 @@
 <a href="https://github.com/Gagniuc/Sequence-Logo-block-style-with-axes"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---block-style-with-axes/raw/main/%5BG%5D%20Sequence%20Logo%20-%20block%20style%20with%20axes.png" width="180" alt="Sequence Logo (block style with axes)"></kbd></a>
 <a href="https://github.com/Gagniuc/Spectral-Forecast-model-for-signals"><kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-model-for-signals/raw/main/%5BG%5D%20Spectral%20Forecast%20model%20for%20signals.png" width="180" alt="Spectral Forecast model for signals"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="180" alt="Jupiter Bioinformatics (V1)"></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
+<a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---normal-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V2%20-%20normal).png" width="180" alt="Jupiter Bioinformatics V2 (normal)"></kbd></a>
+<a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-dark"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---dark-/raw/main/ScreenShot%20-%20Jupiter%20Bioinformatics%20(V2%20-%20dark).png" width="180" alt="Jupiter Bioinformatics V2 (dark)"></kbd></a>
+<a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-experiments"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-experiments/raw/main/Bio-Jupiter.PNG" width="180" alt="Jupiter Bioinformatics V2 experiments"></kbd></a>
+<a href="https://github.com/Gagniuc/Discrete-Probability-Detector-JS"><kbd><img src="https://github.com/Gagniuc/Discrete-Probability-Detector-DPD-/raw/main/%5BG%5D%20Discrete%20Probability%20Detector.png" width="180" alt="Discrete Probability Detector (DPD)"></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
