@@ -27,7 +27,9 @@
 <a href="https://github.com/Gagniuc/Chaos-and-Noise"><kbd><img src="https://github.com/Gagniuc/Chaos-noise-with-reference-to-the-chapter-on-philosophical-transactions-/raw/main/%5BG%5D%20Chaos%20and%20Noise.png" width="180" alt="Chaos & noise"></kbd></a>
 <a href="https://github.com/Gagniuc/Spectral-Forecast-equation-for-signals"><kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-equation-for-signals/raw/main/%5BG%5D%20Spectral%20Forecast%20equation%20for%20signals.png" width="180" alt="Spectral Forecast equation for signals"></kbd></a>
 <a href="https://github.com/Gagniuc/Spectral-Forecast-equation-for-matrices"><kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-equation-for-matrices/raw/main/%5BG%5D%20Spectral%20Forecast%20equation%20for%20matrices.png" width="180" alt="Spectral Forecast equation for matrices"></kbd></a>
-
+<a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/Native-Charts/raw/main/%5BChart%2011%5D%20(circular%20animated%20-%20even%20more%20fantastic).gif" width="180" alt="native - Java Script Charts"></kbd></a>
+<a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/raw/main/bioinformatics.PNG" width="180" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
+  
 <h2>Visual Basic 6.0 implementations</h2>
 <p>Some demo applications:</p>
   
@@ -40,12 +42,6 @@
 <a href="https://github.com/Gagniuc/Markov-Chains-Simulation-framework"><kbd><img src="https://github.com/Gagniuc/Markov-Chains---Simulation-framework/raw/main/Markov%20Chains%20-%20Simulation%20framework.PNG" width="180" alt="Markov Chains Simulation framework"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-Prediction-framework"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-Prediction-framework/raw/main/Markov%20Chains%20-%20Prediction%20framework%20(new%20setup).png" width="180" alt="Markov Chains Prediction framework"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-The-weather"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-The-weather/raw/main/Markov%20Chains%20-%20The%20weather.PNG" width="180" alt="Markov Chains The weather"></kbd></a>
-  
-
-<a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/Native-Charts/raw/main/%5BChart%2011%5D%20(circular%20animated%20-%20even%20more%20fantastic).gif" width="180" alt="native - Java Script Charts"></kbd></a>
-  
-<a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/raw/main/bioinformatics.PNG" width="180" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
-
   
 </body>
 </html>
