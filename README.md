@@ -34,10 +34,11 @@
 <a href="https://github.com/Gagniuc/Markov-Chains-Simulation-framework"><kbd><img src="https://github.com/Gagniuc/Markov-Chains---Simulation-framework/raw/main/Markov%20Chains%20-%20Simulation%20framework.PNG" width="180" alt="Markov Chains Simulation framework"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-Prediction-framework"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-Prediction-framework/raw/main/Markov%20Chains%20-%20Prediction%20framework%20(new%20setup).png" width="180" alt="Markov Chains Prediction framework"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-The-weather"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-The-weather/raw/main/Markov%20Chains%20-%20The%20weather.PNG" width="180" alt="Markov Chains The weather"></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
-<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
+  
+<a href="https://github.com/Gagniuc/PI-laboratory-in-VB6"><kbd><img src="https://github.com/Gagniuc/PI-laboratory-in-VB6/raw/main/screenshot/PI%20engine%20(3).gif" width="180" alt="PI laboratory in VB6"></kbd></a>
+<a href="https://github.com/Gagniuc/Motif-detection-VB6"><kbd><img src="https://github.com/Gagniuc/Motif-detection-VB6/raw/main/screenshot/Demo%20-%20DNA%20motif%20detection%20in%20VB6%20(6).gif" width="180" alt="Motif detection VB6"></kbd></a>
+<a href="https://github.com/Gagniuc/Visual-Sequence-Alignment-in-VB6"><kbd><img src="https://github.com/Gagniuc/Visual-Sequence-Alignment-in-VB6/raw/main/screenshot/AlignDNA%20in%20VB6%20(5).gif" width="180" alt="Visual Sequence Alignment in VB6"></kbd></a>
+<a href="https://github.com/Gagniuc/Markov-Chains-detector-in-VB6"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-detector-in-VB6/raw/main/screenshot/Markov%20Chains%20detector%20in%20VB6%20(2).gif" width="180" alt="Markov Chains detector in VB6"></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
