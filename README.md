@@ -31,6 +31,14 @@
 <h2>Visual Basic 6.0 implementations</h2>
 <p>Some demo applications:</p>
   
+<a href="https://github.com/Gagniuc/Markov-Chains-Simulation-framework"><kbd><img src="https://github.com/Gagniuc/Markov-Chains---Simulation-framework/raw/main/Markov%20Chains%20-%20Simulation%20framework.PNG" width="180" alt="Markov Chains Simulation framework"></kbd></a>
+<a href="https://github.com/Gagniuc/Markov-Chains-Prediction-framework"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-Prediction-framework/raw/main/Markov%20Chains%20-%20Prediction%20framework%20(new%20setup).png" width="180" alt="Markov Chains Prediction framework"></kbd></a>
+<a href="https://github.com/Gagniuc/Markov-Chains-The-weather"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-The-weather/raw/main/Markov%20Chains%20-%20The%20weather.PNG" width="180" alt="Markov Chains The weather"></kbd></a>
+<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
+<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
+<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
+<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
+<a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
 <a href=""><kbd><img src="" width="180" alt=""></kbd></a>
