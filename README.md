@@ -33,7 +33,11 @@
 <a href="https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6"><kbd><img src="https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6/raw/main/screenshot/PromKappa%202.0%20Objective%20Digital%20Stain%20(4).gif" width="250" alt="PromKappa 3.0 Objective Digital Stains in VB6"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-Simulation-framework"><kbd><img src="https://github.com/Gagniuc/Markov-Chains---Simulation-framework/raw/main/Markov%20Chains%20-%20Simulation%20framework.PNG" width="250" alt="Markov Chains Simulation framework"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-Prediction-framework"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-Prediction-framework/raw/main/Markov%20Chains%20-%20Prediction%20framework%20(new%20setup).png" width="250" alt="Markov Chains Prediction framework"></kbd></a>
-<a href="https://github.com/Gagniuc/Markov-Chains-The-weather"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-The-weather/raw/main/Markov%20Chains%20-%20The%20weather.PNG" width="250" alt="Markov Chains The weather"></kbd></a><a href="https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm"><kbd><img src="https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/C20.PNG" width="250" alt="Markov Chains The weather"></kbd></a>
+<a href="https://github.com/Gagniuc/Markov-Chains-The-weather"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-The-weather/raw/main/Markov%20Chains%20-%20The%20weather.PNG" width="250" alt="Markov Chains The weather"></kbd></a><a href="https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm"><kbd><img src="https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/C20.PNG" width="250" alt="Dynamic Block Allocation algorithm"></kbd></a>
+ 
+  <hr>
+  
+  <a href="https://github.com/Gagniuc/RNA-complementarity"><kbd><img src="https://github.com/Gagniuc/RNA-complementarity/blob/main/RNA%20complementarity.png?raw=true" width="250" alt="RNA complementarity"></kbd></a><a href="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS"><kbd><img src="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS/blob/main/DNA%20complement%20via%20alignment.png?raw=true" width="250" alt="DNA complementarity"></kbd></a>
   
 </body>
 </html>
