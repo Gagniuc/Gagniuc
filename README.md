@@ -40,7 +40,7 @@
  
   <hr>
   
-  <a href="https://github.com/Gagniuc/RNA-complementarity"><kbd><img src="https://github.com/Gagniuc/RNA-complementarity/blob/main/RNA%20complementarity.png?raw=true" width="250" alt="RNA complementarity"></kbd></a> <a href="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS"><kbd><img src="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS/blob/main/DNA%20complement%20via%20alignment.png?raw=true" width="250" alt="DNA complementarity"></kbd></a>
+  <a href="https://github.com/Gagniuc/RNA-complementarity"><kbd><img src="https://github.com/Gagniuc/RNA-complementarity/blob/main/RNA%20complementarity.png?raw=true" width="250" alt="RNA complementarity"></kbd></a> <a href="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS"><kbd><img src="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS/blob/main/DNA%20complement%20via%20alignment.png?raw=true" width="250" alt="DNA complementarity"></kbd></a> <a href="https://github.com/Gagniuc/Entropy-of-strings"><kbd><img src="https://github.com/Gagniuc/Entropy-of-strings/blob/main/entropy.png?raw=true" width="250" alt="Entropy of text"></kbd></a>
   
 </body>
 </html>
