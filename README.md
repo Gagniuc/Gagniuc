@@ -27,7 +27,7 @@
  <hr>
  
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/Native-Charts/raw/main/%5BChart%2011%5D%20(circular%20animated%20-%20even%20more%20fantastic).gif" width="250" alt="native - Java Script Charts"></kbd></a>
-<a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/raw/main/bioinformatics.PNG" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
+<a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
 <a href="https://github.com/Gagniuc/PI-laboratory-in-VB6"><kbd><img src="https://github.com/Gagniuc/PI-laboratory-in-VB6/raw/main/screenshot/PI%20engine%20(3).gif" width="250" alt="PI laboratory in VB6"></kbd></a>
 <a href="https://github.com/Gagniuc/Motif-detection-VB6"><kbd><img src="https://github.com/Gagniuc/Motif-detection-VB6/raw/main/screenshot/Demo%20-%20DNA%20motif%20detection%20in%20VB6%20(6).gif" width="250" alt="Motif detection VB6"></kbd></a>
 <a href="https://github.com/Gagniuc/Visual-Sequence-Alignment-in-VB6"><kbd><img src="https://github.com/Gagniuc/Visual-Sequence-Alignment-in-VB6/raw/main/screenshot/AlignDNA%20in%20VB6%20(5).gif" width="250" alt="Visual Sequence Alignment in VB6"></kbd></a>
