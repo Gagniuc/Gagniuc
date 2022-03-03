@@ -49,11 +49,10 @@ Note: all applications are designed natively in their respective programming or 
   <a href="https://github.com/Gagniuc/RNA-complementarity"><kbd><img src="https://github.com/Gagniuc/RNA-complementarity/blob/main/RNA%20complementarity.png?raw=true" width="250" alt="RNA complementarity"></kbd></a> <a href="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS"><kbd><img src="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS/blob/main/DNA%20complement%20via%20alignment.png?raw=true" width="250" alt="DNA complementarity"></kbd></a> <a href="https://github.com/Gagniuc/Entropy-of-strings"><kbd><img src="https://github.com/Gagniuc/Entropy-of-strings/blob/main/text_entropy.png?raw=true" width="250" alt="Entropy of text"></kbd></a>
 
 <hr>
- 
+
 <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
- 
-<a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
- 
+ <a href="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains"><kbd><img src="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains/blob/main/Markov%20Chains.png?raw=true" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
+ <a href="https://github.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications/main/MC.png" width="250" alt="Algorithms in Visual Basic for Applications"></kbd></a>
 </body>
 </html>
 
