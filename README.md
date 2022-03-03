@@ -30,8 +30,10 @@
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/%5BChart%2010%5D%20(circular%20animated%20-%20fantastic).gif?raw=true" width="250" alt="native - Java Script Charts"></kbd></a>
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/%5BChart%208%5D%20(circular%20animated%20-%20interesting).gif?raw=true" width="250" alt="native - Java Script Charts"></kbd></a>
  
+ <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
+ 
  <hr>
-<a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
+<a href="https://github.com/Gagniuc/Diabetes-prediction-2.0"><kbd><img src="https://github.com/Gagniuc/Diabetes-prediction-V2.0/raw/main/screenshot/Medical%20prediction%20on%20diabetes.gif" width="250" alt="Diabetes prediction prototype"></kbd></a>
 <a href="https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling"><kbd><img src="https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling/blob/main/screenshot/Photon-pixel%20coupling%20(3).PNG?raw=true" width="250" alt="Prototype software for Photon-pixel coupling method"></kbd></a>
  <a href="https://github.com/Gagniuc/PI-laboratory-in-VB6"><kbd><img src="https://github.com/Gagniuc/PI-laboratory-in-VB6/raw/main/screenshot/PI%20engine%20(3).gif" width="250" alt="PI laboratory in VB6"></kbd></a>
 <a href="https://github.com/Gagniuc/Motif-detection-VB6"><kbd><img src="https://github.com/Gagniuc/Motif-detection-VB6/raw/main/screenshot/Demo%20-%20DNA%20motif%20detection%20in%20VB6%20(6).gif" width="250" alt="Motif detection VB6"></kbd></a>
@@ -39,8 +41,8 @@
 <a href="https://github.com/Gagniuc/Markov-Chains-detector-in-VB6"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-detector-in-VB6/raw/main/screenshot/Markov%20Chains%20detector%20in%20VB6%20(2).gif" width="250" alt="Markov Chains detector in VB6"></kbd></a><a href="https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm"><kbd><img src="https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/C20.PNG" width="250" alt="Dynamic Block Allocation algorithm"></kbd></a> <a href="https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6"><kbd><img src="https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6/raw/main/screenshot/PromKappa%202.0%20Objective%20Digital%20Stain%20(4).gif" width="250" alt="PromKappa 3.0 Objective Digital Stains in VB6"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-Simulation-framework"><kbd><img src="https://github.com/Gagniuc/Markov-Chains---Simulation-framework/raw/main/Markov%20Chains%20-%20Simulation%20framework.PNG" width="250" alt="Markov Chains Simulation framework"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-Prediction-framework"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-Prediction-framework/raw/main/Markov%20Chains%20-%20Prediction%20framework%20(new%20setup).png" width="250" alt="Markov Chains Prediction framework"></kbd></a>
-<a href="https://github.com/Gagniuc/Markov-Chains-The-weather"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-The-weather/raw/main/Markov%20Chains%20-%20The%20weather.PNG" width="250" alt="Markov Chains The weather"></kbd></a> <a href="https://github.com/Gagniuc/Diabetes-prediction-2.0"><kbd><img src="https://github.com/Gagniuc/Diabetes-prediction-V2.0/raw/main/screenshot/Medical%20prediction%20on%20diabetes.gif" width="250" alt="Diabetes prediction prototype"></kbd></a>
-
+<a href="https://github.com/Gagniuc/Markov-Chains-The-weather"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-The-weather/raw/main/Markov%20Chains%20-%20The%20weather.PNG" width="250" alt="Markov Chains The weather"></kbd></a> 
+<a href="https://github.com/Gagniuc/Mix-two-signals-by-using-Spectral-Forecast-in-VB6-app-v1.0"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Mix-two-signals-by-using-Spectral-Forecast-in-VB6-app-v2.0/main/img/Spectral%20Forecast%20in%20VB%20(2).gif" width="250" alt="Spectral-Forecast-equation-VB6-app-2.0"></kbd></a>
  
   <hr>
   
