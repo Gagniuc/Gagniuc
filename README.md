@@ -27,6 +27,8 @@
  <hr>
  
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/Native-Charts/raw/main/%5BChart%2011%5D%20(circular%20animated%20-%20even%20more%20fantastic).gif" width="250" alt="native - Java Script Charts"></kbd></a>
+<a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/%5BChart%2010%5D%20(circular%20animated%20-%20fantastic).gif?raw=true" width="250" alt="native - Java Script Charts"></kbd></a>
+<a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/%5BChart%208%5D%20(circular%20animated%20-%20interesting).gif?raw=true" width="250" alt="native - Java Script Charts"></kbd></a>
  
  <hr>
 <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
