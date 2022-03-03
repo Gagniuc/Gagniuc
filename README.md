@@ -27,8 +27,12 @@ Note: all applications are designed natively in their respective programming or 
  <hr>
  
  <a href="https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/main/img/sf(0).gif" width="250" alt="Waveform-mixing-with-Spectral-Forecast-in-JS"></kbd></a>
+ <a href="https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/main/img/sf(1).gif" width="250" alt="Waveform-mixing-with-Spectral-Forecast-in-JS"></kbd></a> 
+ <a href="https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/main/img/sf(2).gif" width="250" alt="Waveform-mixing-with-Spectral-Forecast-in-JS"></kbd></a>
  
-
+  <a href="https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/main/img/sf(3).gif" width="250" alt="Waveform-mixing-with-Spectral-Forecast-in-JS"></kbd></a>
+  <a href="https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/main/img/sf(4).gif" width="250" alt="Waveform-mixing-with-Spectral-Forecast-in-JS"></kbd></a> 
+ <a href="https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/main/img/sf(5).gif" width="250" alt="Waveform-mixing-with-Spectral-Forecast-in-JS"></kbd></a>
  
  <hr>
  
