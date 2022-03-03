@@ -2,7 +2,7 @@
 <html>
 <body>
 
-Note: all applications are designed natively in their respective programming or scripting languages, without libraries and dependencies.
+Note: all applications are designed natively in their respective programming or scripting languages, without libraries and dependencies. There are about 100 posts here, however, below are some useful projects that I have chosen to show as a preview.
  
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="250" alt="Jupiter Bioinformatics (V1)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---normal-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V2%20-%20normal).png" width="250" alt="Jupiter Bioinformatics V2 (normal)"></kbd></a>
