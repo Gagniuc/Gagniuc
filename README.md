@@ -2,6 +2,8 @@
 <html>
 <body>
 
+Note: all applications are designed natively in their programming or scripting languages, without libraries and dependencies.
+ 
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="250" alt="Jupiter Bioinformatics (V1)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---normal-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V2%20-%20normal).png" width="250" alt="Jupiter Bioinformatics V2 (normal)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-dark"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---dark-/raw/main/ScreenShot%20-%20Jupiter%20Bioinformatics%20(V2%20-%20dark).png" width="250" alt="Jupiter Bioinformatics V2 (dark)"></kbd></a>
