@@ -51,7 +51,7 @@ Note: all applications are designed natively in their respective programming or 
 <hr>
 
 <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
- <a href="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains"><kbd><img src="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains/blob/main/Markov%20Chains.png?raw=true" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
+ <a href="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Visual-Basic-modules-Markov-Chains/main/mc.png" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
  <a href="https://github.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications/main/MC.png" width="250" alt="Algorithms in Visual Basic for Applications"></kbd></a>
 </body>
 </html>
