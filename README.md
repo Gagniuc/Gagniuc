@@ -26,6 +26,12 @@ Note: all applications are designed natively in their respective programming or 
  
  <hr>
  
+ <a href="https://github.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Waveform-mixing-with-Spectral-Forecast-in-JS/main/img/sf(0).gif" width="250" alt="Waveform-mixing-with-Spectral-Forecast-in-JS"></kbd></a>
+ 
+
+ 
+ <hr>
+ 
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/Native-Charts/raw/main/%5BChart%2011%5D%20(circular%20animated%20-%20even%20more%20fantastic).gif" width="250" alt="native - Java Script Charts"></kbd></a>
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/%5BChart%2010%5D%20(circular%20animated%20-%20fantastic).gif?raw=true" width="250" alt="native - Java Script Charts"></kbd></a>
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/%5BChart%208%5D%20(circular%20animated%20-%20interesting).gif?raw=true" width="250" alt="native - Java Script Charts"></kbd></a>
