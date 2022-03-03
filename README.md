@@ -32,8 +32,6 @@ Note: all applications are designed natively in their programming or scripting l
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/%5BChart%2010%5D%20(circular%20animated%20-%20fantastic).gif?raw=true" width="250" alt="native - Java Script Charts"></kbd></a>
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/%5BChart%208%5D%20(circular%20animated%20-%20interesting).gif?raw=true" width="250" alt="native - Java Script Charts"></kbd></a>
  
- <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
- 
  <hr>
 <a href="https://github.com/Gagniuc/Diabetes-prediction-2.0"><kbd><img src="https://github.com/Gagniuc/Diabetes-prediction-V2.0/raw/main/screenshot/Medical%20prediction%20on%20diabetes.gif" width="250" alt="Diabetes prediction prototype"></kbd></a>
 <a href="https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling"><kbd><img src="https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling/blob/main/screenshot/Photon-pixel%20coupling%20(3).PNG?raw=true" width="250" alt="Prototype software for Photon-pixel coupling method"></kbd></a>
@@ -49,7 +47,13 @@ Note: all applications are designed natively in their programming or scripting l
   <hr>
   
   <a href="https://github.com/Gagniuc/RNA-complementarity"><kbd><img src="https://github.com/Gagniuc/RNA-complementarity/blob/main/RNA%20complementarity.png?raw=true" width="250" alt="RNA complementarity"></kbd></a> <a href="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS"><kbd><img src="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS/blob/main/DNA%20complement%20via%20alignment.png?raw=true" width="250" alt="DNA complementarity"></kbd></a> <a href="https://github.com/Gagniuc/Entropy-of-strings"><kbd><img src="https://github.com/Gagniuc/Entropy-of-strings/blob/main/text_entropy.png?raw=true" width="250" alt="Entropy of text"></kbd></a>
-  
+
+<hr>
+ 
+<a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
+ 
+<a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
+ 
 </body>
 </html>
 
