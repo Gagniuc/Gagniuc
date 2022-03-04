@@ -2,6 +2,12 @@
 <html>
 <body>
 
+ /* The Image container */
+.img-hover-zoom {
+  height: 300px; /* Modify this according to your need */
+  overflow: hidden; /* Removing this will break the effects */
+}
+ 
 Note: all applications are designed natively in their respective programming or scripting languages, without libraries and dependencies. There are about 100 posts [here](https://github.com/Gagniuc?tab=repositories), however, below are some useful projects that I have chosen to show as a preview.
  
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="250" alt="Jupiter Bioinformatics (V1)"></kbd></a>
