@@ -64,5 +64,5 @@ Note: all applications are designed natively in their respective programming or 
 </body>
 </html>
 
-
+<hr>
 
