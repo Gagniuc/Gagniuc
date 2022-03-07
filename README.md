@@ -47,6 +47,7 @@ Note: all applications are designed natively in their respective programming or 
 <a href="https://github.com/Gagniuc/native-JS-Charts"><kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/%5BChart%208%5D%20(circular%20animated%20-%20interesting).gif?raw=true" width="250" alt="native - Java Script Charts"></kbd></a>
  
  <hr>
+	
 <a href="https://github.com/Gagniuc/Diabetes-prediction-2.0"><kbd><img src="https://github.com/Gagniuc/Diabetes-prediction-V2.0/raw/main/screenshot/Medical%20prediction%20on%20diabetes.gif" width="250" alt="Diabetes prediction prototype"></kbd></a>
 <a href="https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling"><kbd><img src="https://github.com/Gagniuc/Prototype-software-for-Photon-pixel-coupling/blob/main/screenshot/Photon-pixel%20coupling%20(3).PNG?raw=true" width="250" alt="Prototype software for Photon-pixel coupling method"></kbd></a>
  <a href="https://github.com/Gagniuc/PI-laboratory-in-VB6"><kbd><img src="https://github.com/Gagniuc/PI-laboratory-in-VB6/raw/main/screenshot/PI%20engine%20(3).gif" width="250" alt="PI laboratory in VB6"></kbd></a>
@@ -77,20 +78,16 @@ Note: all applications are designed natively in their respective programming or 
 	
 
 <p align="left"> 
-
 <img alt="Gagniuc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gagniuc&show_icons=true&count_private=true&theme=graywhite&hide=contribs,prs,issues" width="540px"/>
-
+	
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gagniuc&langs_count=10&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="Gagniuc" width="540px"/>
-
 </p>
  
 <hr>
 
 <img src="https://komarev.com/ghpvc/?username=Gagniuc&label=Profile%20views&color=0e75b6&style=plastic" alt="Gagniuc" /> 
-	
-	
-	
+
 <details>
  
