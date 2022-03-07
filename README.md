@@ -10,7 +10,7 @@ Note: all applications are designed natively in their respective programming or 
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-experiments"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-experiments/raw/main/Bio-Jupiter.PNG" width="250" alt="Jupiter Bioinformatics V2 experiments"></kbd></a> <a href="https://github.com/Gagniuc/Sequence-Logo-relative-style"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---relative-style/raw/main/%5BG%5D%20Sequence%20Logo%20-%20relative%20style.png" width="250" alt="Sequence Logo (relative style)"></kbd></a> <a href="https://github.com/Gagniuc/Sequence-Logo-block-style"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---block-style/raw/main/%5BG%5D%20Sequence%20Logo%20-%20block%20style.png" width="250" alt="Sequence Logo (block style)"></kbd></a> 
  
  <details>
- <summary>More +</summary>
+ <summary>More [+]</summary>
   
  <a href="https://github.com/Gagniuc/Discrete-Probability-Detector-JS"><kbd><img src="https://github.com/Gagniuc/Discrete-Probability-Detector-DPD-/raw/main/%5BG%5D%20Discrete%20Probability%20Detector.png" width="250" alt="Discrete Probability Detector (DPD)"></kbd></a>
 <a href="https://github.com/Gagniuc/Predictions-with-Markov-Chains"><kbd><img src="https://github.com/Gagniuc/Predictions-with-Markov-Chains/blob/main/ScreenShot%20-%20Predictions%20with%20Markov%20Chains%20on%20an%20unlimited%20number%20of%20states.png" width="250" alt="Predictions with Markov Chains"></kbd></a>
@@ -74,13 +74,6 @@ Note: all applications are designed natively in their respective programming or 
 
 <details>
 <summary>More [+]</summary>
- 
-<p align="center"> 
-
-	
-
-</p>
-
 	
 
 <p align="left"> 
