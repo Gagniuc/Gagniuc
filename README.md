@@ -72,6 +72,8 @@ Note: all applications are designed natively in their respective programming or 
 
 <hr>
 
+<details>
+<summary>More +</summary>
  
 <p align="center"> 
 
@@ -90,7 +92,7 @@ Note: all applications are designed natively in their respective programming or 
 	
 </p>
  
-
+<details>
  
  
 
