@@ -2,12 +2,6 @@
 <html>
 <body>
  
- > Short blurb about what your product does.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
- 
 Note: all applications are designed natively in their respective programming or scripting languages, without libraries and dependencies. There are about 100 posts [here](https://github.com/Gagniuc?tab=repositories), however, below are some useful projects that I have chosen to show as a preview.
  
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="250" alt="Jupiter Bioinformatics (V1)"></kbd></a>
@@ -77,4 +71,19 @@ Note: all applications are designed natively in their respective programming or 
 </html>
 
 <hr>
+
+![LinkedIn Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)
+ 
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gagniuc&show_icons=true&locale=en" alt="Gagniuc" /></p>
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gagniuc&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Gagniuc" height="192px"/>
+ 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Gagniuc&label=Profile%20views&color=0e75b6&style=plastic" alt="Gagniuc" /> 
+</p>
+ 
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gagniuc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gagniuc&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+ 
 
