@@ -72,18 +72,25 @@ Note: all applications are designed natively in their respective programming or 
 
 <hr>
 
-![LinkedIn Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)
- 
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gagniuc&show_icons=true&locale=en" alt="Gagniuc" /></p>
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gagniuc&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Gagniuc" height="192px"/>
  
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Gagniuc&label=Profile%20views&color=0e75b6&style=plastic" alt="Gagniuc" /> 
+
+	
+![LinkedIn Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)
+	
+	
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Gagniuc&label=Profile%20views&color=0e75b6&style=plastic" alt="Gagniuc" /> 
+
+<p align="left"> 
+	<img alt="Gagniuc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gagniuc&show_icons=true&count_private=true&theme=" height="192px"/>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gagniuc&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Gagniuc" height="192px"/>
+	
 </p>
  
+
  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gagniuc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gagniuc&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
  
 
