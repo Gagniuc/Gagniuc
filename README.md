@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-
- - [x] #345
- - [ ] https://github.com/Gagniuc/Jupiter-Bioinformatics-V1
- - [ ] bla
- 
  
 Note: all applications are designed natively in their respective programming or scripting languages, without libraries and dependencies. There are about 100 posts [here](https://github.com/Gagniuc?tab=repositories), however, below are some useful projects that I have chosen to show as a preview.
  
@@ -13,11 +8,15 @@ Note: all applications are designed natively in their respective programming or 
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---normal-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V2%20-%20normal).png" width="250" alt="Jupiter Bioinformatics V2 (normal)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-dark"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---dark-/raw/main/ScreenShot%20-%20Jupiter%20Bioinformatics%20(V2%20-%20dark).png" width="250" alt="Jupiter Bioinformatics V2 (dark)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-experiments"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-experiments/raw/main/Bio-Jupiter.PNG" width="250" alt="Jupiter Bioinformatics V2 experiments"></kbd></a> <a href="https://github.com/Gagniuc/Sequence-Logo-relative-style"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---relative-style/raw/main/%5BG%5D%20Sequence%20Logo%20-%20relative%20style.png" width="250" alt="Sequence Logo (relative style)"></kbd></a> <a href="https://github.com/Gagniuc/Sequence-Logo-block-style"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo---block-style/raw/main/%5BG%5D%20Sequence%20Logo%20-%20block%20style.png" width="250" alt="Sequence Logo (block style)"></kbd></a> 
+ 
+ <details>
+ <summary>More +</summary>
+  
  <a href="https://github.com/Gagniuc/Discrete-Probability-Detector-JS"><kbd><img src="https://github.com/Gagniuc/Discrete-Probability-Detector-DPD-/raw/main/%5BG%5D%20Discrete%20Probability%20Detector.png" width="250" alt="Discrete Probability Detector (DPD)"></kbd></a>
 <a href="https://github.com/Gagniuc/Predictions-with-Markov-Chains"><kbd><img src="https://github.com/Gagniuc/Predictions-with-Markov-Chains/blob/main/ScreenShot%20-%20Predictions%20with%20Markov%20Chains%20on%20an%20unlimited%20number%20of%20states.png" width="250" alt="Predictions with Markov Chains"></kbd></a>
  <a href="https://github.com/Gagniuc/Objective-Digital-Stains"><kbd><img src="https://github.com/Gagniuc/Objective-Digital-Stains/blob/main/%5BG%5D%20Objective%20Digital%20Stains.png" width="250" alt="Objective Digital Stains"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-scanner"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-scanner/raw/main/%5BG%5D%20Markov%20scanner.png" width="250" alt="Markov Chains scanner"></kbd></a>
-<a href="https://github.com/Gagniuc/Linear-congruential-generator"><kbd><img src="https://github.com/Gagniuc/Linear-congruential-generator/raw/main/%5BG%5D%20Linear%20congruential%20generator.png" width="250" alt="Linear congruential generator"></kbd></a>
+ <a href="https://github.com/Gagniuc/Linear-congruential-generator"><kbd><img src="https://github.com/Gagniuc/Linear-congruential-generator/raw/main/%5BG%5D%20Linear%20congruential%20generator.png" width="250" alt="Linear congruential generator"></kbd></a>
 <a href="https://github.com/Gagniuc/Information-content-vs-percentage"><kbd><img src="https://github.com/Gagniuc/Information-content-vs-percentage/raw/main/%5BG%5D%20Information%20content%20vs%20percentage.png" width="250" alt="Information content vs percentage"></kbd></a>
 <a href="https://github.com/Gagniuc/A-high-discrimination-motif-scanner"><kbd><img src="https://github.com/Gagniuc/A-high-discrimination-motif-scanner-two-PFMs-/raw/main/%5BG%5D%20A%20high%20discrimination%20motif%20scanner%20(two%20PFMs).png" width="250" alt="A high discrimination motif scanner (two PFMs)"></kbd></a>
 <a href="https://github.com/Gagniuc/A-high-discrimination-motif-scanner-and-variable-sensitivity"><kbd><img src="https://github.com/Gagniuc/A-high-discrimination-motif-scanner-two-PFMs-with-variable-sensitivity/raw/main/%5BG%5D%20A%20high%20discrimination%20motif%20scanner%20(two%20PFMs)%20with%20variable%20sensitivity.png" width="250" alt="A high discrimination motif scanner (variable sensitivity)"></kbd></a>
@@ -28,6 +27,8 @@ Note: all applications are designed natively in their respective programming or 
 <a href="https://github.com/Gagniuc/Chaos-and-Noise"><kbd><img src="https://github.com/Gagniuc/Chaos-noise-with-reference-to-the-chapter-on-philosophical-transactions-/raw/main/%5BG%5D%20Chaos%20and%20Noise.png" width="250" alt="Chaos & noise"></kbd></a>
 <a href="https://github.com/Gagniuc/Spectral-Forecast-equation-for-signals"><kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-equation-for-signals/raw/main/%5BG%5D%20Spectral%20Forecast%20equation%20for%20signals.png" width="250" alt="Spectral Forecast equation for signals"></kbd></a>
 <a href="https://github.com/Gagniuc/Spectral-Forecast-equation-for-matrices"><kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-equation-for-matrices/raw/main/%5BG%5D%20Spectral%20Forecast%20equation%20for%20matrices.png" width="250" alt="Spectral Forecast equation for matrices"></kbd></a>
+ 
+</details>
  
  <hr>
  
