@@ -75,7 +75,6 @@ Note: all applications are designed natively in their respective programming or 
 
 <details>
 <summary>More [+]</summary>
-	
 
 <p align="left"> 
 <img alt="Gagniuc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gagniuc&show_icons=true&count_private=true&theme=graywhite&hide=contribs,prs,issues" width="540px"/>
