@@ -2,7 +2,7 @@
 <html>
 <body>
  
-Note: all applications shown here are designed natively in their respective programming or scripting languages, without libraries and dependencies. Thus, the applications have no dependencies and can be used offline. There are about 100 posts uploaded [here](https://github.com/Gagniuc?tab=repositories), however, below are some useful projects that I have chosen to show as a preview:
+Note: all applications shown here are designed natively in their respective programming or scripting languages, without libraries or external files. Thus, the applications have no dependencies and can be used offline. There are about 100 posts uploaded [here](https://github.com/Gagniuc?tab=repositories), however, below are some useful projects that I have chosen to show as a preview:
  
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V1).png" width="250" alt="Jupiter Bioinformatics (V1)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---normal-/raw/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V2%20-%20normal).png" width="250" alt="Jupiter Bioinformatics V2 (normal)"></kbd></a>
