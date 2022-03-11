@@ -88,5 +88,9 @@ Note: all applications presented here are designed natively in their respective 
 
 <img src="https://komarev.com/ghpvc/?username=Gagniuc&label=Profile%20views&color=0e75b6&style=plastic" alt="Gagniuc" /> 
 
+<hr>	
+	
+![image](https://user-images.githubusercontent.com/88835962/157813486-4ad9b1a2-8030-4a0e-b07d-f2a40a0813cf.png)
+	
 <details>
  
