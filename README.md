@@ -13,7 +13,7 @@ Note: all applications presented here are designed natively in their respective 
  <summary>More [+]</summary>
   
  <a href="https://github.com/Gagniuc/Discrete-Probability-Detector-JS"><kbd><img src="https://github.com/Gagniuc/Discrete-Probability-Detector-JS/blob/main/img/Discrete%20Probability%20Detector.png?raw=true" width="250" alt="Discrete Probability Detector (DPD)"></kbd></a>
-<a href="https://github.com/Gagniuc/Predictions-with-Markov-Chains"><kbd><img src="https://github.com/Gagniuc/Predictions-with-Markov-Chains/blob/main/ScreenShot%20-%20Predictions%20with%20Markov%20Chains%20on%20an%20unlimited%20number%20of%20states.png" width="250" alt="Predictions with Markov Chains"></kbd></a>
+<a href="https://github.com/Gagniuc/Predictions-with-Markov-Chains"><kbd><img src="https://github.com/Gagniuc/Predictions-with-Markov-Chains/blob/main/img/Predictions%20with%20Markov%20Chains%20on%20an%20unlimited%20number%20of%20states.png?raw=true" width="250" alt="Predictions with Markov Chains"></kbd></a>
  <a href="https://github.com/Gagniuc/Objective-Digital-Stains"><kbd><img src="https://github.com/Gagniuc/Objective-Digital-Stains/blob/main/ods.png?raw=true" width="250" alt="Objective Digital Stains"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-scanner"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-scanner/raw/main/%5BG%5D%20Markov%20scanner.png" width="250" alt="Markov Chains scanner"></kbd></a>
  <a href="https://github.com/Gagniuc/Linear-congruential-generator"><kbd><img src="https://github.com/Gagniuc/Linear-congruential-generator/raw/main/%5BG%5D%20Linear%20congruential%20generator.png" width="250" alt="Linear congruential generator"></kbd></a>
