@@ -58,7 +58,7 @@ Note: all applications presented here are designed natively in their respective 
 <a href="https://github.com/Gagniuc/Markov-Chains-Simulation-framework"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Markov-Chains-Simulation-framework/main/img/Markov%20Chains%20-%20Simulation%20framework.png" width="250" alt="Markov Chains Simulation framework"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-Prediction-framework"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Markov-Chains-Prediction-framework/main/img/Markov%20Chains%20-%20Prediction%20framework.png" width="250" alt="Markov Chains Prediction framework"></kbd></a>
 <a href="https://github.com/Gagniuc/Mix-two-signals-by-using-Spectral-Forecast-in-VB6-app-v1.0"><kbd><img src="https://github.com/Gagniuc/Mix-two-signals-by-using-Spectral-Forecast-in-VB6-app-v1.0/blob/main/img/sf3.png?raw=true" width="250" alt="Spectral-Forecast-equation-VB6-app-2.0"></kbd></a>
-<a href="https://github.com/Gagniuc/Markov-Chains-The-weather"><kbd><img src="https://github.com/Gagniuc/Markov-Chains-The-weather/raw/main/Markov%20Chains%20-%20The%20weather.PNG" width="250" alt="Markov Chains The weather"></kbd></a> 
+<a href="https://github.com/Gagniuc/Markov-Chains-The-weather"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Markov-Chains-The-weather/main/img/Markov%20Chains%20-%20The%20weather.png" width="250" alt="Markov Chains The weather"></kbd></a> 
  
   <hr>
   
