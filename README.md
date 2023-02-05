@@ -59,8 +59,12 @@ Note: all applications presented here are designed natively in their respective 
 <a href="https://github.com/Gagniuc/Markov-Chains-Prediction-framework"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Markov-Chains-Prediction-framework/main/img/Markov%20Chains%20-%20Prediction%20framework.png" width="250" alt="Markov Chains Prediction framework"></kbd></a>
 <a href="https://github.com/Gagniuc/Mix-two-signals-by-using-Spectral-Forecast-in-VB6-app-v1.0"><kbd><img src="https://github.com/Gagniuc/Mix-two-signals-by-using-Spectral-Forecast-in-VB6-app-v1.0/blob/main/img/sf3.png?raw=true" width="250" alt="Spectral-Forecast-equation-VB6-app-2.0"></kbd></a>
 <a href="https://github.com/Gagniuc/Markov-Chains-The-weather"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Markov-Chains-The-weather/main/img/Markov%20Chains%20-%20The%20weather.png" width="250" alt="Markov Chains The weather"></kbd></a> 
- 
-  <hr>
+
+<a href="https://github.com/Gagniuc/GHDNA-hash-function"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/GHDNA-hash-function/main/img/3.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a> 
+<a href="https://github.com/Gagniuc/GCluster"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/GCluster/main/img/GCLUSTER%20V2.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a> 
+<a href="https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6"><kbd><img src="https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6/blob/main/screenshot/PromKappa%202.0%20Objective%20Digital%20Stain%20(1).png?raw=true" width="250" alt="PromKappa 3.0 Objective Digital Stains in VB6"></kbd></a>
+
+<hr>
   
   <a href="https://github.com/Gagniuc/RNA-complementarity"><kbd><img src="https://github.com/Gagniuc/RNA-complementarity/blob/main/RNA%20complementarity.png?raw=true" width="250" alt="RNA complementarity"></kbd></a> <a href="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS"><kbd><img src="https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS/blob/main/DNA%20complement%20via%20alignment.png?raw=true" width="250" alt="DNA complementarity"></kbd></a> <a href="https://github.com/Gagniuc/Entropy-of-strings"><kbd><img src="https://github.com/Gagniuc/Entropy-of-strings/blob/main/img/text_entropy.png?raw=true" width="250" alt="Entropy of text"></kbd></a>
 
