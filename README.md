@@ -74,15 +74,13 @@ Note: all applications presented here are designed natively in their respective 
 <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
  <a href="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Visual-Basic-modules-Markov-Chains/main/mc.png" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
  <a href="https://github.com/Gagniuc/Programming-Languages"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Programming-Languages/main/img/programming%20languages%203.png" width="250" alt="An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments"></kbd></a>
-</body>
-</html>
-
-
-
 
  <a href="https://github.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications/main/MC.png" width="785" alt="Algorithms in Visual Basic for Applications"></kbd></a>
  
  <a href="https://github.com/Gagniuc/Binary-files-inside-EXCEL-VBA"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Binary-files-inside-EXCEL-VBA/main/img/scr.png" width="785" alt="Algorithms in Visual Basic for Applications"></kbd></a>
+	
+ <a href="https://github.com/Gagniuc/Spectral-Forecast-in-EXCEL"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Spectral-Forecast-in-EXCEL/main/img/spectral.png"></kbd></a>
+ 
 <hr>
 
 - <i>Paul A. Gagniuc. An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments. Synthesis Lectures on Computer Science. Springer International Publishing, 2023, pp. 1-268.</i>
@@ -98,7 +96,7 @@ Note: all applications presented here are designed natively in their respective 
 
 <p align="left"> 
 <img alt="Gagniuc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gagniuc&show_icons=true&count_private=true&theme=graywhite&hide=contribs,prs,issues" width="540px"/>
-	
+
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gagniuc&langs_count=10&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="Gagniuc" width="540px"/>
@@ -112,4 +110,6 @@ Note: all applications presented here are designed natively in their respective 
 
 [gagniuc.github.io](https://gagniuc.github.io/)	
 
-
+	
+</body>
+</html>
