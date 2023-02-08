@@ -82,11 +82,11 @@ Note: all applications presented here are designed natively in their respective 
  <a href="https://github.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications/main/MC.png" width="250" alt="Algorithms in Visual Basic for Applications"></kbd></a>
 <hr>
 
-- Paul A. Gagniuc. An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments. Synthesis Lectures on Computer Science. Springer International Publishing, 2023, pp. 1-268.
+- <i>Paul A. Gagniuc. An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments. Synthesis Lectures on Computer Science. Springer International Publishing, 2023, pp. 1-268.</i>
 
-- Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, pp. 1-528. ISBN: 9781119697961.
+- <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, pp. 1-528. ISBN: 9781119697961.</i>
 
-- Paul A. Gagniuc. Markov chains: from theory to implementation and experimentation. Hoboken, NJ, John Wiley & Sons, USA, 2017, pp. 1-256. ISBN: 978-1-119-38755-8.
+- <i>Paul A. Gagniuc. Markov chains: from theory to implementation and experimentation. Hoboken, NJ, John Wiley & Sons, USA, 2017, pp. 1-256. ISBN: 978-1-119-38755-8.</i>
 
 <hr>
 
