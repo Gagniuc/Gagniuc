@@ -74,7 +74,9 @@ Note: all applications presented here are designed natively in their respective 
 <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
  <a href="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Visual-Basic-modules-Markov-Chains/main/mc.png" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
  <a href="https://github.com/Gagniuc/Programming-Languages"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Programming-Languages/main/img/programming%20languages%203.png" width="250" alt="An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments"></kbd></a>
-
+	
+<hr>
+	
  <a href="https://github.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications/main/MC.png" width="785" alt="Algorithms in Visual Basic for Applications"></kbd></a>
  
  <a href="https://github.com/Gagniuc/Binary-files-inside-EXCEL-VBA"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Binary-files-inside-EXCEL-VBA/main/img/scr.png" width="785" alt="Binary files inside EXCEL VBA"></kbd></a>
