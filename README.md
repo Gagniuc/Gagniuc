@@ -80,6 +80,7 @@ Note: all applications presented here are designed natively in their respective 
 
 
  <a href="https://github.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications/main/MC.png" width="250" alt="Algorithms in Visual Basic for Applications"></kbd></a>
+ <a href="https://github.com/Gagniuc/Binary-files-inside-EXCEL-VBA"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Binary-files-inside-EXCEL-VBA/main/img/scr.png" width="250" alt="Algorithms in Visual Basic for Applications"></kbd></a>
 <hr>
 
 - <i>Paul A. Gagniuc. An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments. Synthesis Lectures on Computer Science. Springer International Publishing, 2023, pp. 1-268.</i>
