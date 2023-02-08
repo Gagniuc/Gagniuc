@@ -78,11 +78,15 @@ Note: all applications presented here are designed natively in their respective 
 <hr>
 	
  <a href="https://github.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications/main/MC.png" width="785" alt="Algorithms in Visual Basic for Applications"></kbd></a>
- 
+
+<details>
+<summary>More [+]</summary>
+
  <a href="https://github.com/Gagniuc/Binary-files-inside-EXCEL-VBA"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Binary-files-inside-EXCEL-VBA/main/img/scr.png" width="785" alt="Binary files inside EXCEL VBA"></kbd></a>
 	
  <a href="https://github.com/Gagniuc/Spectral-Forecast-in-EXCEL"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Spectral-Forecast-in-EXCEL/main/img/spectral.png" width="785" alt="Spectral Forecast in EXCEL"></kbd></a>
- 
+</details>
+	
 <hr>
 
 - <i>Paul A. Gagniuc. An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments. Synthesis Lectures on Computer Science. Springer International Publishing, 2023, pp. 1-268.</i>
@@ -112,6 +116,6 @@ Note: all applications presented here are designed natively in their respective 
 
 [gagniuc.github.io](https://gagniuc.github.io/)	
 
-	
+</details>	
 </body>
 </html>
