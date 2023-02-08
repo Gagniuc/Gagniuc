@@ -63,7 +63,7 @@ Note: all applications presented here are designed natively in their respective 
 
 <a href="https://github.com/Gagniuc/GHDNA-hash-function"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/GHDNA-hash-function/main/img/3.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a> 
 <a href="https://github.com/Gagniuc/GCluster"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/GCluster/main/img/GCLUSTER%20V2.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a> 
-<a href="https://github.com/Gagniuc/Discrete-Probability-Detector/blob/main/img/Markov%20Chains%20-%20Discrete%20Probability%20Detector.png"><kbd><img src="https://github.com/Gagniuc/Discrete-Probability-Detector/blob/main/img/Markov%20Chains%20-%20Discrete%20Probability%20Detector.png?raw=true" width="250" alt="PromKappa 3.0 Objective Digital Stains in VB6"></kbd></a>
+<a href="https://github.com/Gagniuc/Discrete-Probability-Detector"><kbd><img src="https://github.com/Gagniuc/Discrete-Probability-Detector/blob/main/img/Markov%20Chains%20-%20Discrete%20Probability%20Detector.png?raw=true" width="250" alt="PromKappa 3.0 Objective Digital Stains in VB6"></kbd></a>
 
 <hr>
   
