@@ -77,9 +77,9 @@ Note: all applications presented here are designed natively in their respective 
 
  <a href="https://github.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications/main/MC.png" width="785" alt="Algorithms in Visual Basic for Applications"></kbd></a>
  
- <a href="https://github.com/Gagniuc/Binary-files-inside-EXCEL-VBA"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Binary-files-inside-EXCEL-VBA/main/img/scr.png" width="785" alt="Algorithms in Visual Basic for Applications"></kbd></a>
+ <a href="https://github.com/Gagniuc/Binary-files-inside-EXCEL-VBA"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Binary-files-inside-EXCEL-VBA/main/img/scr.png" width="785" alt="Binary files inside EXCEL VBA"></kbd></a>
 	
- <a href="https://github.com/Gagniuc/Spectral-Forecast-in-EXCEL"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Spectral-Forecast-in-EXCEL/main/img/spectral.png"></kbd></a>
+ <a href="https://github.com/Gagniuc/Spectral-Forecast-in-EXCEL"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Spectral-Forecast-in-EXCEL/main/img/spectral.png" width="785" alt="Spectral Forecast in EXCEL"></kbd></a>
  
 <hr>
 
