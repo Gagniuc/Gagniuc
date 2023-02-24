@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <body>
- 
-Note: all applications presented here are designed natively in their respective programming or scripting languages, without libraries or external files. Thus, the applications have no dependencies and can be used offline. There are about 100 posts uploaded [here](https://github.com/Gagniuc?tab=repositories), however, below are some useful projects that I have chosen to show as a preview:
 
 <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
  <a href="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Visual-Basic-modules-Markov-Chains/main/mc.png" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
  <a href="https://github.com/Gagniuc/Programming-Languages"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Programming-Languages/main/img/programming%20languages%203.png" width="250" alt="An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments"></kbd></a>
 	
 <hr>
+
+Note: all applications presented here are designed natively in their respective programming or scripting languages, without libraries or external files. Thus, the applications have no dependencies and can be used offline. There are about 100 posts uploaded [here](https://github.com/Gagniuc?tab=repositories), however, below are some useful projects that I have chosen to show as a preview:
 	
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V1/blob/main/img/Jupiter%20Bioinformatics%20(V1).png?raw=true" width="250" alt="Jupiter Bioinformatics (V1)"></kbd></a>
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal/blob/main/img/Jupiter%20Bioinformatics%20(V2%20-%20normal).png?raw=true" width="250" alt="Jupiter Bioinformatics V2 (normal)"></kbd></a>
