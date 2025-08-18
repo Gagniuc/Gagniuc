@@ -2,12 +2,9 @@
 <html>
 <body>
 
-[![](https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/img/SI-NUSTPB.png)](https://www.mdpi.com/si/250454)
-
-
 <a href="https://www.mdpi.com/si/250454">
   <kbd>
-    <img src="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/img/SI-NUSTPB.png" width="750" alt="Special Issue | Algorithms for Cyber Defense">
+    <img src="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/img/SI-NUSTPB.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
   </kbd>
 </a>
 
