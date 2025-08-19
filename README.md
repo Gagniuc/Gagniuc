@@ -4,11 +4,7 @@
 
 
 
-<a href="https://github.com/Gagniuc/Antivirus-Engines">
-  <kbd>
-    <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/antivirus.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
-  </kbd>
-</a>
+
 
 
 Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A repository for resources and updates related to the <a href="https://www.mdpi.com/si/250454">Algorithms</a> special issue. Focused on secure algorithmic solutions for cyber defense, including encryption, authentication, anomaly detection, reverse engineering, and security-aware AI. Submission deadline: July 31, 2026.
@@ -21,9 +17,17 @@ Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A reposi
 
 <hr>
 
-<a href="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex/blob/main/python.png" width="250" alt="Python Coding Examples from Simple to Complex"></kbd></a>
-<a href=""><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Visual-Basic-modules-Markov-Chains/main/mc.png" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
-<a href=""><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Programming-Languages/main/img/programming%20languages%203.png" width="250" alt="An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments"></kbd></a>
+<a href="https://github.com/Gagniuc/Antivirus-Engines">
+  <kbd>
+    <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/antivirus.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
+  </kbd>
+</a>
+
+<hr>
+
+<a href="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex/blob/main/img/python.png" width="250" alt="Python Coding Examples from Simple to Complex"></kbd></a>
+<a href="https://github.com/Gagniuc/JavaScript-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/JavaScript-Coding-Examples-from-Simple-to-Complex/blob/main/img/javascript.png" width="250" alt="JavaScript Coding Examples from Simple to Complex"></kbd></a>
+<a href="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex/blob/main/img/matlab.png" width="250" alt="MATLAB Coding Examples from Simple to Complex"></kbd></a>
 	
 <hr>
 
