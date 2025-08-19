@@ -2,8 +2,17 @@
 <html>
 <body>
 
+
+
+<a href="https://github.com/Gagniuc/Antivirus-Engines">
+  <kbd>
+    <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/antivirus.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
+  </kbd>
+</a>
+
+
 Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A repository for resources and updates related to the <a href="https://www.mdpi.com/si/250454">Algorithms</a> special issue. Focused on secure algorithmic solutions for cyber defense, including encryption, authentication, anomaly detection, reverse engineering, and security-aware AI. Submission deadline: July 31, 2026.
-<a href="https://www.mdpi.com/si/250454](https://github.com/Gagniuc/Algorithms-for-Cyber-Defense">
+<a href="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense">
   <kbd>
     <img src="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/img/SI-NUSTPB.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
   </kbd>
