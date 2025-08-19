@@ -19,6 +19,14 @@ Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A reposi
 </a>
 
 
+<hr>
+
+<a href="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex/blob/main/python.png" width="250" alt="Python Coding Examples from Simple to Complex"></kbd></a>
+<a href=""><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Visual-Basic-modules-Markov-Chains/main/mc.png" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
+<a href=""><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Programming-Languages/main/img/programming%20languages%203.png" width="250" alt="An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments"></kbd></a>
+	
+<hr>
+
 <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
 <a href="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Visual-Basic-modules-Markov-Chains/main/mc.png" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
 <a href="https://github.com/Gagniuc/Programming-Languages"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Programming-Languages/main/img/programming%20languages%203.png" width="250" alt="An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments"></kbd></a>
