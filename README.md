@@ -19,7 +19,7 @@ Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A reposi
 
 <a href="https://github.com/Gagniuc/Antivirus-Engines">
   <kbd>
-    <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/antivirus.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
+    <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/AVlogos.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
   </kbd>
 </a>
 
