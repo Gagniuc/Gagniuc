@@ -27,7 +27,7 @@ Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A reposi
 
 <a href="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex/blob/main/img/b_python.png" width="250" alt="Python Coding Examples from Simple to Complex"></kbd></a>
 <a href="https://github.com/Gagniuc/JavaScript-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/JavaScript-Coding-Examples-from-Simple-to-Complex/blob/main/img/b_javascript.png" width="250" alt="JavaScript Coding Examples from Simple to Complex"></kbd></a>
-<a href="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex/blob/main/img/matlab.png" width="250" alt="MATLAB Coding Examples from Simple to Complex"></kbd></a>
+<a href="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex/blob/main/img/b_matlab.png" width="250" alt="MATLAB Coding Examples from Simple to Complex"></kbd></a>
 	
 <hr>
 
