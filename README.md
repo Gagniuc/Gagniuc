@@ -120,24 +120,24 @@ Note: all applications presented here are designed natively in their respective 
 
 - <i>Paul A. Gagniuc. An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments. Synthesis Lectures on Computer Science. Springer International Publishing, 2023, pp. 1-280.</i>
 
+- <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in Python. Synthesis Lectures on Computer Science. Springer International Publishing, 2024, pp. 1-245.</i>
+
+- <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in MATLAB. Synthesis Lectures on Computer Science. Springer International Publishing, 2024, pp. 1-255.</i>
+
+- <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in Javascript. Synthesis Lectures on Computer Science. Springer International Publishing, 2024, pp. 1-240.</i>
+
+- <i>Paul A. Gagniuc. Antivirus Engines: From Methods to Innovations, Design, and Applications. Cambridge, MA: Elsevier Syngress, 2024. pp. 1-656. ISBN: 9780443329524</i>
+
 - <i>Paul A. Gagniuc. Markov chains: from theory to implementation and experimentation. Hoboken, NJ, John Wiley & Sons, USA, 2017, pp. 1-256. ISBN: 978-1-119-38755-8.</i>
 
 - <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, pp. 1-528. ISBN: 9781119697961.</i>
-
-- <i>Paul A. Gagniuc. Antivirus Engines: From Methods to Innovations, Design, and Applications. Cambridge, MA: Elsevier Syngress, 2024. pp. 1-656.</i>
-
-- <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in Python, Springer, 2024, pp. 1-245.</i>
-
-- <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in MATLAB, Springer, 2024, pp. 1-255.</i>
-
-- <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in Javascript, Springer, 2024, pp. 1-240.</i>
 
 <hr>
 
 <details>
 <summary>More [+]</summary>
 
-<p align="left"> 
+<p align="left">
 <img alt="Gagniuc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gagniuc&show_icons=true&count_private=true&theme=graywhite&hide=contribs,prs,issues" width="540px"/>
 
 <br>
