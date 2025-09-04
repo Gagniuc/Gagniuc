@@ -28,8 +28,7 @@ Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A reposi
 <a href="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex/blob/main/img/b_python.png" width="250" alt="Python Coding Examples from Simple to Complex"></kbd></a>
 <a href="https://github.com/Gagniuc/JavaScript-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/JavaScript-Coding-Examples-from-Simple-to-Complex/blob/main/img/b_javascript.png" width="250" alt="JavaScript Coding Examples from Simple to Complex"></kbd></a>
 <a href="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex/blob/main/img/b_matlab.png" width="250" alt="MATLAB Coding Examples from Simple to Complex"></kbd></a>
-	
-<hr>
+
 
 <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
 <a href="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Visual-Basic-modules-Markov-Chains/main/mc.png" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
