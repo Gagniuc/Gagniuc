@@ -46,6 +46,8 @@ Note: all applications presented here are designed natively in their respective 
 <a href="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-experiments"><kbd><img src="https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-experiments/blob/main/img/Bio-Jupiter.png?raw=true" width="250" alt="Jupiter Bioinformatics V2 experiments"></kbd></a> <a href="https://github.com/Gagniuc/Sequence-Logo-relative-style"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo-relative-style/blob/main/img/Sequence%20Logo%20-%20relative%20style.png?raw=true" width="250" alt="Sequence Logo (relative style)"></kbd></a> <a href="https://github.com/Gagniuc/Sequence-Logo-block-style"><kbd><img src="https://github.com/Gagniuc/Sequence-Logo-block-style/blob/main/img/Sequence%20Logo%20-%20block%20style.png?raw=true" width="250" alt="Sequence Logo (block style)"></kbd></a> 
 </div>
 
+<hr>
+
  <details>
  <summary>More [+]</summary>
 
