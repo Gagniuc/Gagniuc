@@ -2,38 +2,39 @@
 <html>
 <body>
 
-
-
-
-
-
 Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A repository for resources and updates related to the <a href="https://www.mdpi.com/si/250454">Algorithms</a> special issue. Focused on secure algorithmic solutions for cyber defense, including encryption, authentication, anomaly detection, reverse engineering, and security-aware AI. Submission deadline: July 31, 2026.
-<a href="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense">
-  <kbd>
-    <img src="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/img/SI-NUSTPB.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
-  </kbd>
-</a>
 
+<div align="center">
+	<a href="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense">
+	  <kbd>
+	    <img src="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/img/SI-NUSTPB.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
+	  </kbd>
+	</a>
+</div>
+
+<hr>
+<div align="center">
+	<a href="https://github.com/Gagniuc/Antivirus-Engines">
+	  <kbd>
+	    <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/AVlogos.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
+	  </kbd>
+	</a>
+</div>
 
 <hr>
 
-<a href="https://github.com/Gagniuc/Antivirus-Engines">
-  <kbd>
-    <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/AVlogos.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
-  </kbd>
-</a>
-
-<hr>
-
+<div align="center">
 <a href="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex/blob/main/img/b_python.png" width="250" alt="Python Coding Examples from Simple to Complex"></kbd></a>
 <a href="https://github.com/Gagniuc/JavaScript-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/JavaScript-Coding-Examples-from-Simple-to-Complex/blob/main/img/b_javascript.png" width="250" alt="JavaScript Coding Examples from Simple to Complex"></kbd></a>
 <a href="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex"><kbd><img src="https://github.com/Gagniuc/MATLAB-Coding-Examples-from-Simple-to-Complex/blob/main/img/b_matlab.png" width="250" alt="MATLAB Coding Examples from Simple to Complex"></kbd></a>
+</div>
 
-
+<div align="center">
 <a href="https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/main/Bioinformatics.png" width="250" alt="Bioinformatics Algorithms in JavaScript"></kbd></a>
 <a href="https://github.com/Gagniuc/Visual-Basic-modules-Markov-Chains"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Visual-Basic-modules-Markov-Chains/main/mc.png" width="250" alt="Visual Basic (VBA; VB 6.0) - Markov-Chains"></kbd></a>
 <a href="https://github.com/Gagniuc/Programming-Languages"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Programming-Languages/main/img/programming%20languages%203.png" width="250" alt="An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments"></kbd></a>
-	
+</div>
+
 <hr>
 
 Note: all applications presented here are designed natively in their respective programming or scripting languages, without libraries or external files. Thus, the applications have no dependencies and can be used offline. There are about 100 posts uploaded [here](https://github.com/Gagniuc?tab=repositories), however, below are some useful projects that I have chosen to show as a preview:
