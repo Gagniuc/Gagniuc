@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<hr>
-
 Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A repository for resources and updates related to the <a href="https://www.mdpi.com/si/250454">Algorithms</a> special issue. Focused on secure algorithmic solutions for cyber defense, including encryption, authentication, anomaly detection, reverse engineering, and security-aware AI. Submission deadline: July 31, 2026.
 
 <div align="center">
