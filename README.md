@@ -13,6 +13,8 @@ Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A reposi
 	</a>
 </div>
 
+<br>
+
 <div align="center">
 	<details>
 	<summary>Statement [+]</summary>
@@ -23,6 +25,7 @@ Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A reposi
 </div>
 
 <hr>
+
 <div align="center">
 	<a href="https://github.com/Gagniuc/Antivirus-Engines">
 	  <kbd>
