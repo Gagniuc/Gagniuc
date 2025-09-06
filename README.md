@@ -199,5 +199,12 @@ Note: all applications presented here are designed natively in their respective 
 [gagniuc.github.io](https://gagniuc.github.io/)	
 
 </details>	
+
+
+<div align="center">
+<a href=""><kbd><img src="https://github.com/Gagniuc/Non-Welded-Structural-Beam-Joints/blob/main/img/abstract-side.png" alt="3d beam"></kbd></a>
+</div>
+
+
 </body>
 </html>
