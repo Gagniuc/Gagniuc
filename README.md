@@ -26,7 +26,7 @@ Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A reposi
 <div align="center">
 	<a href="https://github.com/Gagniuc/Academia-Tehnica-Militara">
 	  <kbd>
-	    <img src="https://github.com/Gagniuc/Academia-Tehnica-Militara/blob/main/img/a.png" width="780" alt="ATM cursuri">
+	    <img src="https://github.com/Gagniuc/Academia-Tehnica-Militara/blob/main/img/c.png" width="780" alt="ATM cursuri">
 	  </kbd>
 	</a>
 </div>
