@@ -17,7 +17,7 @@ Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A reposi
 	<details>
 	<summary>Statement [+]</summary>
 		<a href="">
-		    <img src="https://github.com/Gagniuc/Gagniuc/blob/main/img/AI-ERA5.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
+		    <img src="https://github.com/Gagniuc/Gagniuc/blob/main/img/AI-ERA7.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
 		</a>
 	</details>
 </div>
