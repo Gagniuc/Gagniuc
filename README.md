@@ -193,18 +193,9 @@ Note: all applications presented here are designed natively in their respective 
 <details>
 <summary>More [+]</summary>
 
-<p align="left">
-<img alt="Gagniuc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gagniuc&show_icons=true&count_private=true&theme=graywhite&hide=contribs,prs,issues" width="540px"/>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gagniuc&langs_count=10&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="Gagniuc" width="540px"/>
-</p>
- 
 <hr>
-
 <img src="https://komarev.com/ghpvc/?username=Gagniuc&label=Profile%20views&color=0e75b6&style=plastic" alt="Gagniuc" /> 
-
 <hr>	
 
 [gagniuc.github.io](https://gagniuc.github.io/)	
