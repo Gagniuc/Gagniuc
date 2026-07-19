@@ -166,12 +166,8 @@ Note: all applications presented here are designed natively in their respective 
 
 ### Delta Memory Force 2.0
 
-Windows application for monitoring and managing system resources:
-
-- RAM monitoring
-- CPU activity
-- Process management
-- Disk-space monitoring
+Delta Memory Force was originally developed in Bacău, Romania, between 1999 and 2001, on a modest Pentium computer, before permanent Internet access became common.
+The application reflects the Windows 95/98/ME/2000 shareware era, when memory optimization and process-management utilities were widely used.After more than two decades preserved on old hard drives, the original project is now released freely as a piece of Romanian software history.
 
 <br clear="right">
 
