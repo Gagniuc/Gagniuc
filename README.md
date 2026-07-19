@@ -175,18 +175,6 @@ Windows application for monitoring and managing system resources:
 
 <br clear="right">
 
-<hr>
-
-
-
-
-
-
-<hr>
-
-<p align="center">
-  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_open_(II).gif" alt="Delta Memory Force V.3.0 on Windows 11">
-</p>
 
 <hr>
 
