@@ -154,6 +154,40 @@ Note: all applications presented here are designed natively in their respective 
 
 </div>
 
+
+
+
+<hr>
+
+<img
+  align="right"
+  src="https://raw.githubusercontent.com/Gagniuc/Delta-Memory-Force-2.0/main/img/gif/dmf_open_(II).gif"
+  alt="Delta Memory Force 2.0 on Windows 11">
+
+### Delta Memory Force 2.0
+
+Windows application for monitoring and managing system resources:
+
+- RAM monitoring
+- CPU activity
+- Process management
+- Disk-space monitoring
+
+<br clear="right">
+
+<hr>
+
+
+
+
+
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_open_(II).gif" alt="Delta Memory Force V.3.0 on Windows 11">
+</p>
+
 <hr>
 
 <div align="center">
