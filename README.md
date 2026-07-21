@@ -158,12 +158,20 @@ Note: all applications presented here are designed natively in their respective 
 
 
 <hr>
+
+<div>
+
 <a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0">
 <img
   align="right"
-  style="margin-left: 15px; margin-bottom: 10px;"
   src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_closed_(III).gif"
   alt="Delta Memory Force 2.0 on Windows 11" width="323" height="386"></a>
+
+<img
+  align="right"
+  src="https://github.com/Gagniuc/Gagniuc/blob/main/img/spatiu.png"
+  alt="" width="30" height="386"></a>
+
 
 ### Delta Memory Force 2.0
 Delta Memory Force was originally developed in Bacău, Romania, between 1999 and 2001, on a modest Pentium computer, before permanent Internet access became common. <hr>
@@ -171,6 +179,10 @@ The application reflects the Windows 95/98/ME/2000 shareware era, when memory op
 After more than two decades preserved on old hard drives, the original project is now released freely as a piece of history.
 
 <br clear="right">
+
+</div>
+
+
 <hr>
 
 <div align="center">
