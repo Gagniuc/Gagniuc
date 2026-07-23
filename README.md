@@ -183,7 +183,7 @@ Designed for Windows 95, 98, ME, NT, and 2000, it features dynamically generated
 
 <hr>
 
-This repository preserves the complete software archive, including all surviving versions, source code, installation kits, licensing tools, original BMP interface assets, documentation, CD images, and commercial cover artwork.
+This repository preserves the complete software archive, including all versions, source code, installation kits, licensing tools, original interface assets, documentation, CD images.
 
 
 
