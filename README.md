@@ -155,9 +155,16 @@ Note: all applications presented here are designed natively in their respective 
 </div>
 
 
+<hr>
 
+<a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0">
+<img
+  align="right"
+  src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/media.png"
+  alt="Delta Memory Force 2.0 on Windows 11"></a>
 
 <hr>
+
 
 <div>
 
