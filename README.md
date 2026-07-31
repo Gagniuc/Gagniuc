@@ -184,11 +184,9 @@ Original software projects developed during the early years of Windows programmi
 
 Delta Memory Force 2.0 is a real-time Windows system utility for RAM optimization, CPU monitoring, process inspection and control, disk-space analysis, and automated memory recovery.
 
-<hr>
 
 Designed for Windows 95, 98, ME, NT, and 2000, it features dynamically generated charts, LEDs, VU-style indicators, System Tray monitoring, configurable optimization rules, and a proprietary trial-key licensing system.
 
-<hr>
 
 This repository preserves the complete software archive, including all versions, source code, installation kits, licensing tools, original interface assets, documentation, CD images.
 
