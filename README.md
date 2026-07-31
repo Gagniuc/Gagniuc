@@ -184,6 +184,13 @@ Delta Memory Force 2.0 is a real-time Windows system utility for RAM optimizatio
 DMF is one of several projects preserved in this historical software collection. Taken together, these archives are also snapshots of how software was imagined and built at the time: interfaces drawn almost pixel by pixel, custom controls, hand-built charts, compact algorithms, unusual licensing mechanisms, and complete CD-based distribution kits. Beyond their original functions, they preserve the visual language, technical constraints, and practical ingenuity of an earlier period of personal computing.
 
 
+<br clear="right">
+
+</div>
+
+
+
+
 <details>
 <summary>More on the Historical Software Archive [+]</summary>
 
@@ -197,9 +204,6 @@ DMF is one of several projects preserved in this historical software collection.
 
 </details>
 
-<br clear="right">
-
-</div>
 
 
 
