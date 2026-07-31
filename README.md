@@ -177,20 +177,13 @@ Original software projects developed during the early years of Windows programmi
   src="https://github.com/Gagniuc/Gagniuc/blob/main/img/spatiu.png"
   alt="" width="30" height="386"></a>
 
-
-
-
 ### Delta Memory Force 2.0 (1999-2002)
 
 Delta Memory Force 2.0 is a real-time Windows system utility for RAM optimization, CPU monitoring, process inspection and control, disk-space analysis, and automated memory recovery.
 
-
 Designed for Windows 95, 98, ME, NT, and 2000, it features dynamically generated charts, LEDs, VU-style indicators, System Tray monitoring, configurable optimization rules, and a proprietary trial-key licensing system.
 
-
 This repository preserves the complete software archive, including all versions, source code, installation kits, licensing tools, original interface assets, documentation, CD images.
-
-
 
 <br clear="right">
 
@@ -198,15 +191,16 @@ This repository preserves the complete software archive, including all versions,
 
 
 
+<details>
+<summary>More on the Historical Software Archive [+]</summary>
+
 <hr>
 
 <a href="https://github.com/Gagniuc/Applied-Genetics-1.2">
 	<img src="https://github.com/Gagniuc/Applied-Genetics-1.2/blob/main/img/screen%20(VI).jpg" alt="Applied Genetics 1.2 on Windows 11">
 </a>
 
-<hr>
-
-
+</details>
 
 <hr>
 
