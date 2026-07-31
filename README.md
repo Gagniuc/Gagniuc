@@ -200,7 +200,9 @@ This repository preserves the complete software archive, including all versions,
 
 <hr>
 
-![screenshot](https://github.com/Gagniuc/Applied-Genetics-1.2/blob/main/img/screen%20(VI).jpg)
+<a href="https://github.com/Gagniuc/Applied-Genetics-1.2">
+	<img src="https://github.com/Gagniuc/Applied-Genetics-1.2/blob/main/img/screen%20(VI).jpg" alt="Applied Genetics 1.2 on Windows 11">
+</a>
 
 <hr>
 
