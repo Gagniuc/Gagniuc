@@ -186,7 +186,9 @@ Designed for Windows 95, 98, ME, NT, and 2000, it features dynamically generated
 This repository preserves the complete software archive, including all versions, source code, installation kits, licensing tools, original interface assets, documentation, CD images.
 
 
-These archives are also snapshots of how software was imagined and built at the time: interfaces drawn almost pixel by pixel, custom controls, hand-built charts, compact algorithms, unusual licensing mechanisms, and complete CD-based distribution kits. Beyond their original functions, they preserve the visual language, technical constraints, and practical ingenuity of an earlier period of personal computing.
+Delta Memory Force is one of several projects preserved in this historical software collection.
+
+Taken together, these archives are also snapshots of how software was imagined and built at the time: interfaces drawn almost pixel by pixel, custom controls, hand-built charts, compact algorithms, unusual licensing mechanisms, and complete CD-based distribution kits. Beyond their original functions, they preserve the visual language, technical constraints, and practical ingenuity of an earlier period of personal computing.
 
 
 <details>
@@ -202,14 +204,10 @@ These archives are also snapshots of how software was imagined and built at the 
 
 </details>
 
-
-
-
-
-
 <br clear="right">
 
 </div>
+
 
 
 
