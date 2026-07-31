@@ -197,6 +197,15 @@ This repository preserves the complete software archive, including all versions,
 </div>
 
 
+
+<hr>
+
+![screenshot](https://github.com/Gagniuc/Applied-Genetics-1.2/blob/main/img/screen%20(VI).jpg)
+
+<hr>
+
+
+
 <hr>
 
 <div align="center">
