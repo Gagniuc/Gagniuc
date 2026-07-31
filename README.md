@@ -157,6 +157,13 @@ Note: all applications presented here are designed natively in their respective 
 
 <hr>
 
+## Historical Software Archive
+
+Original software projects developed during the early years of Windows programming and preserved together with their source code, executables, interfaces, documentation and distribution materials. These repositories document both the applications themselves and the programming techniques, visual styles and software-distribution practices of their period.
+
+
+<hr>
+
 <div>
 
 <a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0">
@@ -195,7 +202,7 @@ This repository preserves the complete software archive, including all versions,
 <hr>
 
 <div align="center">
-<a href="https://github.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications/main/MC.png" width="785" alt="Algorithms in Visual Basic for Applications"></kbd></a>
+	<a href="https://github.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications"><kbd><img src="https://raw.githubusercontent.com/Gagniuc/Algorithms-in-Visual-Basic-for-Applications/main/MC.png" width="785" alt="Algorithms in Visual Basic for Applications"></kbd></a>
 </div>
 
 <br>
