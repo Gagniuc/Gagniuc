@@ -179,16 +179,9 @@ Original software projects developed during the early years of Windows programmi
 
 ### Delta Memory Force 2.0 (1999-2002)
 
-Delta Memory Force 2.0 is a real-time Windows system utility for RAM optimization, CPU monitoring, process inspection and control, disk-space analysis, and automated memory recovery.
+Delta Memory Force 2.0 is a real-time Windows system utility for RAM optimization, CPU monitoring, process inspection and control, disk-space analysis, and automated memory recovery. Designed for Windows 95, 98, ME, NT, and 2000, it features dynamically generated charts, LEDs, VU-style indicators, System Tray monitoring, configurable optimization rules, and a proprietary trial-key licensing system. This repository preserves the complete software archive, including all versions, source code, installation kits, licensing tools, original interface assets, documentation, CD images. 
 
-Designed for Windows 95, 98, ME, NT, and 2000, it features dynamically generated charts, LEDs, VU-style indicators, System Tray monitoring, configurable optimization rules, and a proprietary trial-key licensing system.
-
-This repository preserves the complete software archive, including all versions, source code, installation kits, licensing tools, original interface assets, documentation, CD images.
-
-
-Delta Memory Force is one of several projects preserved in this historical software collection.
-
-Taken together, these archives are also snapshots of how software was imagined and built at the time: interfaces drawn almost pixel by pixel, custom controls, hand-built charts, compact algorithms, unusual licensing mechanisms, and complete CD-based distribution kits. Beyond their original functions, they preserve the visual language, technical constraints, and practical ingenuity of an earlier period of personal computing.
+DMF is one of several projects preserved in this historical software collection. Taken together, these archives are also snapshots of how software was imagined and built at the time: interfaces drawn almost pixel by pixel, custom controls, hand-built charts, compact algorithms, unusual licensing mechanisms, and complete CD-based distribution kits. Beyond their original functions, they preserve the visual language, technical constraints, and practical ingenuity of an earlier period of personal computing.
 
 
 <details>
