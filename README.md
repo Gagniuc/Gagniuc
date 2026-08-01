@@ -164,6 +164,22 @@ Original software projects developed during the early years of Windows programmi
 
 <hr>
 
+
+<div align="center">
+  
+| RAM & CPU | RAM Limits |
+|:---:|:---:|
+| Delta Memory Force 2.0 is a real-time Windows system utility for RAM optimization, CPU monitoring, process inspection and control, disk-space analysis, and automated memory recovery. Designed for Windows 95, 98, ME, NT, and 2000, it features dynamically generated charts, LEDs, VU-style indicators, System Tray monitoring, configurable optimization rules, and a proprietary trial-key licensing system. This repository preserves the complete software archive, including all versions, source code, installation kits, licensing tools, original interface assets, documentation, CD images. | <img align="center" src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_closed_(III).gif" width="323" height="386"> |
+|  | <img align="center" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/mini%20(I).gif" width="272" height="116" alt="Mini AVI 2.1 player interface"> |
+
+DMF is one of several projects preserved in this historical software collection. Taken together, these archives are also snapshots of how software was imagined and built at the time: interfaces drawn almost pixel by pixel, custom controls, hand-built charts, compact algorithms, unusual licensing mechanisms, and complete CD-based distribution kits. Beyond their original functions, they preserve the visual language, technical constraints, and practical ingenuity of an earlier period of personal computing.
+
+</div>
+
+
+
+
+
 <div>
 
 <a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0">
