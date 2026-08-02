@@ -168,7 +168,7 @@ Original software projects developed during the early years of Windows programmi
 <div align="center">
   
 | RAM & CPU | RAM Limits |
-|:---:|:---:|
+|---|---|
 | <img align="center" src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_WinME_open.png" width="609" height="386"> | <img align="center" src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_closed_(III).gif" width="323" height="386"> |
 |  | <img align="center" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/mini%20(I).gif" width="272" height="116" alt="Mini AVI 2.1 player interface"> |
 
