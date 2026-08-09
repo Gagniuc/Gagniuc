@@ -10,7 +10,7 @@
 	</a>
 </div>
 
-<hr>
+<br>
 
 <div align="center">
 	<a href="https://github.com/Gagniuc/ApacheBAS/">
@@ -32,7 +32,6 @@
 </div>
 
 
-
 <div align="center">
 	<a href="https://github.com/Gagniuc/Antivirus-Engines">
 	  <kbd>
@@ -41,8 +40,8 @@
 	</a>
 </div>
 
+<br>
 
-<hr>
 <div align="center">
 	<a href="https://github.com/Gagniuc/Academia-Tehnica-Militara">
 	  <kbd>
