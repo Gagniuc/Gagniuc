@@ -21,8 +21,7 @@ Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis! A reposi
 	</a>
 </div>
 
-
-<br>
+<hr>
 
 <div align="center">
 	<details>
