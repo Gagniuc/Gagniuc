@@ -5,7 +5,7 @@
 <div align="center">
 	<a href="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense">
 	  <kbd>
-	    <img src="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/img/SI%20(II).png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
+	    <img src="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/img/SI%20(I).png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
 	  </kbd>
 	</a>
 </div>
