@@ -45,7 +45,7 @@
 <div align="center">
 	<a href="https://github.com/Gagniuc/Academia-Tehnica-Militara">
 	  <kbd>
-	    <img src="https://github.com/Gagniuc/Academia-Tehnica-Militara/blob/main/img/gpt.png" width="780" alt="ATM cursuri">
+	    <img src="https://github.com/Gagniuc/Academia-Tehnica-Militara/blob/main/img/a.png" width="780" alt="ATM cursuri">
 	  </kbd>
 	</a>
 </div>
