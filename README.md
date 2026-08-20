@@ -256,7 +256,7 @@ DMF is one of several projects preserved in this historical software collection.
 	
 <hr>
 
-- <i>Paul A. Gagniuc. An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments. Synthesis Lectures on Computer Science (2nd edition). Springer Cham, Springer International Publishing, 2026, pp. 1-425.</i>
+- <i>Paul A. Gagniuc. An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments. Synthesis Lectures on Computer Science (2nd edition). Springer International Publishing, 2026, pp. 1-425.</i>
 
 - <i>Paul A. Gagniuc. An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments. Synthesis Lectures on Computer Science (1st edition). Springer International Publishing, 2023, pp. 1-280.</i>
 
