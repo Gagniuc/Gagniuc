@@ -10,8 +10,6 @@
 	</a>
 </div>
 
-<br>
-
 <div align="center">
 	<a href="https://github.com/Gagniuc/ApacheBAS/">
 	  <kbd>
@@ -40,7 +38,6 @@
 	</a>
 </div>
 
-<br>
 
 <div align="center">
 	<a href="https://github.com/Gagniuc/Academia-Tehnica-Militara">
