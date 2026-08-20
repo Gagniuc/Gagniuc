@@ -35,7 +35,7 @@
 <div align="center">
 	<a href="https://github.com/Gagniuc/Antivirus-Engines">
 	  <kbd>
-	    <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/gpt.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
+	    <img src="https://github.com/Gagniuc/Antivirus-Engines/blob/main/img/AVlogos.png" width="780" alt="Special Issue | Algorithms for Cyber Defense">
 	  </kbd>
 	</a>
 </div>
