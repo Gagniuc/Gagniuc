@@ -196,7 +196,7 @@ DMF is one of several projects preserved in this historical software collection.
 <hr>
 
 <div align="center">
-	<a href="https://github.com/Gagniuc/PC-World"><kbd><img src="https://github.com/Gagniuc/PC-World/blob/main/img/PCW_Jun_2005/CD1/Screenshot%202026-08-26%20031653.png" alt="PC World | CDs"></kbd></a>
+	<a href="https://github.com/Gagniuc/PC-World"><kbd><img src="https://github.com/Gagniuc/PC-World/blob/main/img/old/macheta.png" alt="PC World | CDs"></kbd></a>
 </div>
 
 
