@@ -198,7 +198,7 @@ DMF is one of several projects preserved in this historical software collection.
 
 ### PC World Romania CD Interface Archive (2004-2005)
 
-The <i>PC World Romania</i> CD Interface Archive preserves the software environment I designed and programmed for the magazine's companion CDs between October 2004 and September 2005. During this one year period, the project grew from a custom Visual Basic 6 CD launcher into a complete monthly production system used across 16 physical PC World CDs. The interface organized the software distributed with each issue, displayed descriptions and captures, handled installation, execution and copying of programs, presented magazine and Help content, and later incorporated Internet browsing and several network utilities.
+The <i>PC World Romania</i> CD Interface Archive preserves the software environment I designed and programmed for the magazine's companion CDs between October 2004 and September 2005. During this one year period, the project grew from a custom Visual Basic 6.0 CD launcher into a complete monthly production system used across 16 physical PC World CDs. The interface organized the software distributed with each issue, displayed descriptions and captures, handled installation, execution and copying of programs, presented magazine and Help content, and later incorporated Internet browsing and several network utilities.
 
 <div align="center">
 	<a href="https://github.com/Gagniuc/PC-World"><kbd><img src="https://github.com/Gagniuc/PC-World/blob/main/img/old/macheta.png" alt="PC World | CDs"></kbd></a>
