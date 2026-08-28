@@ -240,12 +240,6 @@ Mini AVI CD is a multimedia application developed in the early 2000s for the sim
 	<a href="https://github.com/Gagniuc/PC-World"><kbd><img src="https://github.com/Gagniuc/PC-World/blob/main/img/ban/set%20(V).png" alt="PC World | CDs"></kbd></a>
 </div>
 
-<hr>
-
-<div align="center">
-	<a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0"><kbd><img align="center" src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_WinME_open.png" width="609" height="386"></kbd></a>
-</div>
-
 
 </details>
 
