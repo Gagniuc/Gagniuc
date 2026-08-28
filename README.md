@@ -195,6 +195,11 @@ DMF is one of several projects preserved in this historical software collection.
 
 <hr>
 
+
+### PC World Romania CD Interface Archive (2004-2005)
+
+The <i>PC World Romania</i> CD Interface Archive preserves the software environment I designed and programmed for the magazine's companion CDs between October 2004 and September 2005. During this one year period, the project grew from a custom Visual Basic 6 CD launcher into a complete monthly production system used across 16 physical PC World CDs. The interface organized the software distributed with each issue, displayed descriptions and captures, handled installation, execution and copying of programs, presented magazine and Help content, and later incorporated Internet browsing and several network utilities. The archive preserves much more than the visible interface. It includes the original VB6 source code, monthly production trees, graphical assets, HTML content, configuration files, bootstrap and recovery programs, and the dedicated <i>Generare Matrita</i> application used to assemble the structure of each new CD edition. These materials document both what the reader saw when the disc was inserted and the production system behind it, preserving a complete example of early 2000s magazine based software distribution and Windows application development.
+
 <div align="center">
 	<a href="https://github.com/Gagniuc/PC-World"><kbd><img src="https://github.com/Gagniuc/PC-World/blob/main/img/old/macheta.png" alt="PC World | CDs"></kbd></a>
 </div>
@@ -240,8 +245,6 @@ Mini AVI CD is a multimedia application developed in the early 2000s for the sim
 
 
 </details>
-
-
 
 
 
