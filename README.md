@@ -226,12 +226,16 @@ Mini AVI CD is a multimedia application developed in the early 2000s for the sim
 
 <hr>
 
-### Applied Genetics 1.2 (2007 - 2008)
+### Applied Genetics 1.2 (2007-2008)
+
+<i>Applied Genetics 1.2</i> is a Visual Basic 6.0 desktop application I developed for interactive analysis and visualization of DNA and RNA sequences. The program combines sequence editing with restriction enzyme analysis, codon translation, repeat and inverse sequence detection, primer calculations, graphical annotation and a simplified electrophoresis gel representation. Its main idea was to keep analytical results connected to their exact positions in the original nucleotide sequence, so detected structures could be viewed simultaneously in the editor, sequence map and graphical output rather than only as isolated textual results.
+
 
 <a href="https://github.com/Gagniuc/Applied-Genetics-1.2">
 	<img src="https://github.com/Gagniuc/Applied-Genetics-1.2/blob/main/img/screen%20(VI).jpg" alt="Applied Genetics 1.2 on Windows 11">
 </a>
 
+The repository preserves the original <i>Windows XP era source code</i>, the Romanian and English editions restored for Windows 11, the restriction enzyme database, project and report formats, custom graphical controls, the historical 30 run trial and activation system, file association utilities, and the original physical CD distribution interface and artwork. With roughly 38,600 lines of VB6 source code, it documents both an early bioinformatics application and the software engineering methods used to build and distribute scientific desktop software during that period.
 
 <hr>
 
