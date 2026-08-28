@@ -170,22 +170,6 @@ Original software projects developed during the early years of Windows programmi
 <hr>
 
 
-<div align="right">
-  
-| RAM & CPU | RAM Limits |
-|---|---|
-| Delta Memory Force 2.0 is a real-time Windows system utility for RAM optimization, CPU monitoring, process inspection and control, disk-space analysis, and automated memory recovery. Designed for Windows 95, 98, ME, NT, and 2000, it features dynamically generated charts, LEDs, VU-style indicators, System Tray monitoring, configurable optimization rules, and a proprietary trial-key licensing system. This repository preserves the complete software archive, including all versions, source code, installation kits, licensing tools, original interface assets, documentation, CD images.  | <img align="center" src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_closed_(III).gif" width="323" height="386"> |
-| Mini AVI CD is a multimedia application developed in the early 2000s for the simple playback of AVI files distributed on CDs. It features a compact interface typical of Windows software from that period and was designed to start quickly without installation or complex configuration. Today, the project is preserved as historical software and has been adapted to run on modern versions of Windows while retaining its original appearance and behavior. | <img align="center" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/mini%20(I).gif" width="272" height="116" alt="Mini AVI 2.1 player interface"> |
-
-
-
-</div>
-
-
-<hr>
-<img align="center" src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_WinME_open.png" width="609" height="386">
-<hr>
-
 <div>
 
 <a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0">
@@ -208,6 +192,16 @@ DMF is one of several projects preserved in this historical software collection.
 
 <br clear="right">
 
+
+<hr>
+
+<div align="center">
+	<a href="https://github.com/Gagniuc/PC-World"><kbd><img src="https://github.com/Gagniuc/PC-World/blob/main/img/PCW_Jun_2005/CD1/Screenshot%202026-08-26%20031653.png" alt="PC World | CDs"></kbd></a>
+</div>
+
+
+
+
 </div>
 
 
@@ -220,6 +214,8 @@ DMF is one of several projects preserved in this historical software collection.
 
 ### Mini AVI (2003 - 2004)
 
+Mini AVI CD is a multimedia application developed in the early 2000s for the simple playback of AVI files distributed on CDs. It features a compact interface typical of Windows software from that period and was designed to start quickly without installation or complex configuration. Today, the project is preserved as historical software and has been adapted to run on modern versions of Windows while retaining its original appearance and behavior.
+
 <img align="center" src="https://github.com/Gagniuc/Mini-AVI/blob/main/img/mini%20(I).gif" width="272" height="116" alt="Mini AVI 2.1 player interface">
 
 <hr>
@@ -229,6 +225,21 @@ DMF is one of several projects preserved in this historical software collection.
 <a href="https://github.com/Gagniuc/Applied-Genetics-1.2">
 	<img src="https://github.com/Gagniuc/Applied-Genetics-1.2/blob/main/img/screen%20(VI).jpg" alt="Applied Genetics 1.2 on Windows 11">
 </a>
+
+
+<hr>
+
+
+<div align="center">
+	<a href="https://github.com/Gagniuc/PC-World"><kbd><img src="https://github.com/Gagniuc/PC-World/blob/main/img/ban/set%20(V).png" alt="PC World | CDs"></kbd></a>
+</div>
+
+<hr>
+
+<div align="center">
+	<a href="https://github.com/Gagniuc/Delta-Memory-Force-2.0"><kbd><img align="center" src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_WinME_open.png" width="609" height="386"></kbd></a>
+</div>
+
 
 </details>
 
