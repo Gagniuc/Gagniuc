@@ -200,8 +200,6 @@ DMF is one of several projects preserved in this historical software collection.
 </div>
 
 
-
-
 </div>
 
 <hr>
